@@ -1,5 +1,5 @@
 class Rational extends Numbers{
-    double real; // реальная часть
+    private double real; // реальная часть
 
 
     public Rational(double real) {

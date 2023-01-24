@@ -1,6 +1,6 @@
 class Complex extends Rational {
 
-    double real; // реальная часть
+    private double real; // реальная часть
     double image; // мнимая часть
 
     public Complex(double real, double image) {
